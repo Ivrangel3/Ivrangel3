@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Ivrangel3/Ivrangel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
 
-Here are some ideas to get you started:
+A few interests of mine are chess, gyn, and occasionally video games. A long term goal of mine include to work at Lockheed Martin as an Eningeer, my short term goal is to reach 2,000 bucks in cash. Something that I've been doing related to school has been designing windmill from scratch using solidworks ( Using dimensions as refrence in making the windmill) . 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact Info:
+
+Email: Ivrangel3@gmail.com
+Linkedln: https://www.linkedin.com/in/ivan-rangel6/
+
+Programming Languages:
+
+- Python
+- C++
+- C#
+
+
