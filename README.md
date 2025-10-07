@@ -9,3 +9,8 @@ A few interests of mine are chess, gyn, and occasionally video games. A long ter
 
 Email: Ivrangel3@gmail.com
 Linkdln: http://linkedin.com/in/ivan-rangel6
+
+##Programming Languages: 
+ - Python 
+ - C++
+ - C#
